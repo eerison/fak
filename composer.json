@@ -1,0 +1,12 @@
+{
+    "name": "erison/fak-recibos",
+    "authors": [
+        {
+            "name": "Erison Silva",
+            "email": "erison.sdn@gmail.com"
+        }
+    ],
+    "require": {
+    	"php" : ">=7.0.0"
+    }
+}
